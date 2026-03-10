@@ -54,7 +54,7 @@ const Home = async ({ searchParams }: SearchParamProps) => {
         <div className="flex flex-col gap-2">
           <p className="text-gray-800"><span className="font-bold">Pixora AI</span> -  your tool for generating creative and unique images with AI.</p>
           <p className="text-gray-800">Developer: Amar Gupta</p>
-          <p className="pt-4">© 2024 - All right reserved by AI Magic Artist</p>
+          <p className="pt-4">© 2026 - All right reserved by AI Magic Artist</p>
         </div>
       </footer>
     </>
